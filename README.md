@@ -1,4 +1,4 @@
-# 📱 Projeto Flutter
+# 📱 Projeto Flutter (Em desenvolvimento)
 
 App desenvolvido em **Flutter** como projeto prático, com foco em estrutura de telas, navegação e uso de widgets fundamentais.
 
