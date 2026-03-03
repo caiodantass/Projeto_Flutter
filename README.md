@@ -75,7 +75,7 @@ flutter pub get
 flutter run
 ```
 
-🛠️ Pré-requisitos
+## 🛠️ Pré-requisitos
 
 Antes de rodar o projeto, certifique-se de ter:
 
@@ -84,22 +84,22 @@ Antes de rodar o projeto, certifique-se de ter:
 ✔️ Emulador ou dispositivo conectado
 
 
-📈 Futuras melhorias:
+##📈 Futuras melhorias:
 
-🧩 Integração com backend/API
+1. Integração com backend/API
 
-🗂️ Gerenciamento de estado (Provider / Riverpod / Bloc)
+2. Gerenciamento de estado (Provider / Riverpod / Bloc)
 
-🎨 UI mais sofisticada
+3. UI mais sofisticada
 
-🔐 Autenticação de usuários
+4. Autenticação de usuários
 
-👤 Autor
+## 👤 Autor
 
 Caio Lívio Leite Muniz Dantas
 Desenvolvedor e autor do projeto.
 Se gostou, deixa uma ⭐ no repositório! ✨
 
-📫 Contato
+## 📫 Contato
 
 Estou aberto a sugestões e colaborações! 😊
