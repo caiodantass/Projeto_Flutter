@@ -22,6 +22,8 @@ Ele foi criado com o intuito de aplicar os conhecimentos de Flutter em um app fu
 ---
 
 ## 📂 Estrutura do projeto
+
+
 lib/
 ├── main.dart
 ├── screens/
@@ -84,7 +86,7 @@ Antes de rodar o projeto, certifique-se de ter:
 ✔️ Emulador ou dispositivo conectado
 
 
-##📈 Futuras melhorias:
+## 📈 Futuras melhorias:
 
 1. Integração com backend/API
 
